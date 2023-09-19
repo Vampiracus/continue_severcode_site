@@ -2,11 +2,11 @@
 
 На данном этапе сверстан сайт на `react`
 
-Чтобы его запустить необходимо скачать репозиторий:
+Чтобы его запустить необходимо скачать репозиторий (должен быть установлен `git`, [подробнее](https://git-scm.com/download/win)):
 ```
 git clone https://github.com/Vampiracus/continue_severcode_site.git
 ```
-Затем необходимо подтянуть зависимости (требуется сборщик пакетов `npm`):
+Затем необходимо подтянуть зависимости (требуется сборщик пакетов `npm`, [подробнее](https://blog.vistro.ru/dependency-management/how-to-install-nodejs-and-npm-on-windows/)):
 ```
 npm install
 ```
